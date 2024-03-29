@@ -53,7 +53,7 @@ fun main(){
     println(checkMonth("styczeń"))
     println(checkMonth("luty"))
     println(checkMonth("Spaghetti"))
-    println(checkMonth("Spaghetti","Spaghetti","Spaghetti","Spaghetti","Spaghetti","Spaghetti"))
+    println(checkMonth("styczeń","LUTY","MaRzeC","KwiecieŃ","Spaghetti","Spaghetti"))
 
 
 
